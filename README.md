@@ -7,7 +7,8 @@
 
 
 Vue Projects:
-IP Tracker: https://62f6b441eb2237097cc2ae32--ip-tracker-vue3.netlify.app/
+IP Tracker - https://62f6b441eb2237097cc2ae32--ip-tracker-vue3.netlify.app/
+Application (Vue + Firebase) - https://vue-crud-b650b.web.app/
 
 <!---
 Mambinge/Mambinge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
