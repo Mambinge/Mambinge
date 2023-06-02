@@ -6,7 +6,8 @@
 - Old github account (lost credentials) - https://github.com/ruemee
 
 
-Vue Projects:
+Projects:
+PrepPal - https://mambinge-meal-prep-meal-0zevb8.streamlit.app/
 IP Tracker - https://62f6b441eb2237097cc2ae32--ip-tracker-vue3.netlify.app/
 Application (Vue + Firebase) - https://vue-crud-b650b.web.app/
 
