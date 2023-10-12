@@ -26,6 +26,7 @@ I'm a Frontend Developer. I am passionate about Data Analysis.
 - [Decoding Copied Code](https://dev.to/galwhocod3z/decoding-copied-code-33c5)
 - [Mastering Deadline Challenges: Quick Problem Solving for Frontend Developers](https://dev.to/galwhocod3z/mastering-deadline-challenges-quick-problem-solving-for-frontend-developers-1jjc)
 - [The Vital Role of Documentation as a Frontend Developer](https://dev.to/galwhocod3z/the-vital-role-of-documentation-as-a-frontend-developer-464j)
+- [Integrating SVG Maps with Angular & GraphQL for Interactive Experiences](https://dev.to/galwhocod3z/integrating-svg-maps-with-angular-graphql-for-interactive-experiences-a2a)
 
 ## Let's Connect
 
