@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/galwhocod3z](https://dev.to/galwhocod3z)
 
-- 💬 Ask me about **Angular, Machine Learning and Content writing**
+- 💬 Ask me about **Angular, Machine Learning, and Content writing**
 
 - 📫 How to reach me **mambingeruvimbo@gmail.com**
 
