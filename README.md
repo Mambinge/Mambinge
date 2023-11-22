@@ -1,40 +1,34 @@
-# 👋 Hi, I’m Ruvimbo Mambinge
+<h1 align="center">Hi 👋, I'm Ruvimbo Mambinge</h1>
+<h3 align="center">A passionate frontend developer and Technical Content Writer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mambinge&label=Profile%20views&color=0e75b6&style=flat" alt="mambinge" /> </p>
 
-I'm a Frontend Developer. I am passionate about Data Analysis.
-- 🌱 I’m currently just learning and coding.
-- 💞️ I have knowledge of Machine learning techniques, Angular, and a bit of AWS.
-- 📖 Blogger at https://dev.to/galwhocod3z
-- 📫 Old GitHub account - https://github.com/ruemee
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mambinge" alt="mambinge" /></a> </p>
 
+- 🔭 I’m currently **just learning and coding**
 
-## 🔧Technologies and Tools
+- 👯 I’m looking to collaborate on **any Angular based projects**
 
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+- 🤝 I’m looking for a **DevRel job**
 
+- 📝 I regularly write articles on [https://dev.to/galwhocod3z](https://dev.to/galwhocod3z)
 
-## Blog Posts
+- 💬 Ask me about **Angular, Machine Learning and Content writing**
 
-- [Design Patterns: Angular](https://dev.to/galwhocod3z/design-patterns-angular-34dk)
-- [Decoding Copied Code](https://dev.to/galwhocod3z/decoding-copied-code-33c5)
-- [Mastering Deadline Challenges: Quick Problem Solving for Frontend Developers](https://dev.to/galwhocod3z/mastering-deadline-challenges-quick-problem-solving-for-frontend-developers-1jjc)
-- [The Vital Role of Documentation as a Frontend Developer](https://dev.to/galwhocod3z/the-vital-role-of-documentation-as-a-frontend-developer-464j)
-- [Integrating SVG Maps with Angular & GraphQL for Interactive Experiences](https://dev.to/galwhocod3z/integrating-svg-maps-with-angular-graphql-for-interactive-experiences-a2a)
+- 📫 How to reach me **mambingeruvimbo@gmail.com**
 
-## Let's Connect
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-| [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/galwhocod3z) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/galwhocod3z/) | [![Dev](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/galwhocod3z) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruvimbo-mambinge-6a2509137/) | [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mambingeruvimbo@gmail.com) |
-|:---:|:---:|:---:|:---:|:---:|
-| Twitter | Instagram | Dev | LinkedIn | Gmail |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/galwhocod3z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="galwhocod3z" height="30" width="40" /></a>
+<a href="https://twitter.com/galwhocod3z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="galwhocod3z" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruvimbo mambinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruvimbo mambinge" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mambinge&show_icons=true&locale=en&layout=compact" alt="mambinge" /></p>
