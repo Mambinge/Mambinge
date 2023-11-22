@@ -9,8 +9,8 @@
 
 - 🤝 I’m looking for a **DevRel job**
 
-- 📝 I regularly write articles on [https://dev.to/galwhocod3z](https://dev.to/galwhocod3z]
-
+- 📝 I regularly write articles on [https://dev.to/galwhocod3z](https://dev.to/galwhocod3z)
+  
 - 💬 Ask me about **Angular and Machine Learning**
 
 - 📫 How to reach me **mambingeruvimbo@gmail.com**
