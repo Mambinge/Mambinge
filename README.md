@@ -17,9 +17,13 @@
 
 - ⚡ Fun fact **love to dance**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Blog Posts
+
+- [Design Patterns: Angular](https://dev.to/galwhocod3z/design-patterns-angular-34dk)
+- [Decoding Copied Code](https://dev.to/galwhocod3z/decoding-copied-code-33c5)
+- [Mastering Deadline Challenges: Quick Problem Solving for Frontend Developers](https://dev.to/galwhocod3z/mastering-deadline-challenges-quick-problem-solving-for-frontend-developers-1jjc)
+- [The Vital Role of Documentation as a Frontend Developer](https://dev.to/galwhocod3z/the-vital-role-of-documentation-as-a-frontend-developer-464j)
+- [Integrating SVG Maps with Angular & GraphQL for Interactive Experiences](https://dev.to/galwhocod3z/integrating-svg-maps-with-angular-graphql-for-interactive-experiences-a2a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
