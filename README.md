@@ -35,7 +35,7 @@
 
 - **Funeral Service Management System**  
   Created a system for tracking claims, commissions, and remittances for a funeral service.  
-  [View Project](https://github.com/username/funeral-service-dashboard)
+  [View Project](https://relievers-funeral-services.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
